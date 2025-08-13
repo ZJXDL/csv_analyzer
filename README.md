@@ -36,7 +36,7 @@ Python 3.x
 
 pip: Python's package installer
 
-🚀 Installation and Setup
+🚀 Installation and Setup :
 Follow these steps to get the project up and running on your local machine.
 
 1. Clone the Repository
@@ -78,7 +78,7 @@ The frontend is a static HTML file. Simply open the index.html file in your web 
 
 C:\path\to\your\project\frontend\index.html
 
-👨‍💻 Usage
+👨‍💻 Usage :
 Open the index.html file in your browser.
 
 Click the "Choose File" button and select a CSV file from your computer.
@@ -89,5 +89,5 @@ A loading spinner will appear while the backend processes the file.
 
 Once the analysis is complete, a comprehensive HTML report will be displayed directly in the web page.
 
-📜 License
+📜 License :
 This project is open-source and available under the MIT License.
