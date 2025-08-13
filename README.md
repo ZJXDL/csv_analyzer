@@ -89,14 +89,5 @@ A loading spinner will appear while the backend processes the file.
 
 Once the analysis is complete, a comprehensive HTML report will be displayed directly in the web page.
 
-📂 Project Structure
-csv-analyzer/
-├── backend/
-│   ├── app.py                  # Flask backend application
-│   ├── requirements.txt        # Python dependencies
-│   └── venv/                   # Python virtual environment (if you created it)
-└── frontend/
-    └── index.html              # Frontend UI with HTML, JS, and Tailwind CSS
-
 📜 License
 This project is open-source and available under the MIT License.
