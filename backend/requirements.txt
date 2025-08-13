@@ -1,0 +1,20 @@
+# Python environment 
+venv\Scripts\activate
+
+# Primary Libraries
+Flask==3.0.3
+Flask-Cors==4.0.1
+ydata-profiling==4.7.0
+pandas==2.2.2
+
+# ydata-profiling Dependencies
+numpy>=1.24.2
+matplotlib>=3.2
+jinja2>=2.11.1
+htmlmin>=0.1.12
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+phik>=0.12.3
+visions>=0.7.5
+tangled-up-in-unicode>=0.0.9
+typeguard>=4.0.2
